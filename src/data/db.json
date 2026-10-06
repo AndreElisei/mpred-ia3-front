@@ -1,0 +1,25 @@
+{
+  "equipamentos": [
+    {
+      "id": 1,
+      "nome": "Motor Elétrico Principal",
+      "tag": "MOT-001",
+      "status": "Operando",
+      "temperatura": "45°C"
+    },
+    {
+      "id": 2,
+      "nome": "Bomba Hidráulica",
+      "tag": "BOM-012",
+      "status": "Alerta",
+      "temperatura": "82°C"
+    },
+    {
+      "id": 3,
+      "nome": "Compressor de Ar",
+      "tag": "COMP-005",
+      "status": "Manutenção",
+      "temperatura": "---"
+    }
+  ]
+}
